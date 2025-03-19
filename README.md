@@ -10,7 +10,7 @@ Este proyecto es una aplicación web para una tienda online de productos deporti
 - **Control de versiones**: Git y GitHub
 
 ## 🤝 Integrantes
-- [Daniel González](https://github.com/usuario1)
+- [Daniel González](https://github.com/DanielGonzMol)
 - [Daniel Palma](https://github.com/usuario2)
 - [Jesús](https://github.com/usuario3)
 - [Paco](https://github.com/usuario4)
